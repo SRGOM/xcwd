@@ -25,6 +25,7 @@ The application works with the following terminals:
   - xterm
   - gnome terminal
   - terminology
+  - Alacritty
 
 How it works
 ------------
